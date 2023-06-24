@@ -14,3 +14,5 @@ The joined table was manipulated in sql: For
   The timeseries data was incremental by 1 min?? which is a bit too esscessive for our use case. SO this was modified to become incremental by an hour.
 THe joined table sql query was then imported into Power BI for visualisation.
 
+*Analysis and Visualisation
+
