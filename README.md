@@ -13,6 +13,4 @@ Two new tables were created using the raw data (see sql query)
 The joined table was manipulated in sql: For
   The timeseries data was incremental by 1 min?? which is a bit too esscessive for our use case. SO this was modified to become incremental by an hour.
 THe joined table sql query was then imported into Power BI for visualisation.
-  THe query is set for a time range from 4/6/2022 (when the data first starts) to GETDATE(). THough the dataset is not live. THis is to demonstrate that if the data   
-   was live, it will keep importing data for Power bi when refreshed.
 
