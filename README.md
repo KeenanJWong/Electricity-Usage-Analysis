@@ -32,6 +32,14 @@ This is where the 'Power Offset' graph comes in. This is probably the first one 
     By selecting the days that are red, it will filter down to that day where you can look at where you are using alot of power and also if there are any external 
      influecing factors, e.g. weather/temp that are affecting it.
     By selecting the days that are green, it will also filter and can look at internal/external influences that lead to lower power consumption.
+
+From our sample data, it can be seen that 4 out of the 6 sample dates are in the red. (AS shown from our snipped of the 4/May - with the highest offset).
+    Interestingly there doesnt seem to be a pattern when comparing those dates 
+    ANd there doesn't seem to be a correlation with temperature/weather as one would think,e.g. rainy/cold days doesn't seem to mean higher consumption.
+        In saying this, this is only a sample period of 5 consecutive days. Perhaps a longer date range that spans different seasons could show more trends.
+
+      
+    
     
 
     
