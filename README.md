@@ -38,7 +38,10 @@ From our sample data, it can be seen that 4 out of the 6 sample dates are in the
     ANd there doesn't seem to be a correlation with temperature/weather as one would think,e.g. rainy/cold days doesn't seem to mean higher consumption.
         In saying this, this is only a sample period of 5 consecutive days. Perhaps a longer date range that spans different seasons could show more trends.
 
-      
+With no definite pattern from the overview page - perhaps we need more detail to understand our power consumption behaviour.
+    This is where the second page 'Above C.Average Breakdown' comes in.
+
+
     
     
 
