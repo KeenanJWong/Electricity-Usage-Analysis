@@ -15,4 +15,16 @@ The joined table was manipulated in sql: For
 THe joined table sql query was then imported into Power BI for visualisation.
 
 *Analysis and Visualisation
+Page 1 - Overview page
+The intent of this page is to provide a high level overview of Power consumption over a period of time.
+The main visual on this page 'Power Usage' visual trends the total power consumption against a cumulative average.
+    As you can see, when the power usage is above the cumulative average - it is indicated with the red bars.
+    This is to breakdown (by hours in a day) when your power consumption goes over the cumulative average
+THe intent of the below visual, 'Weather vs Temperature', is to directly compare the weather and temperature conditions against the power usage.
+    To see if there are any influencing factors (either weather/temperature) that could cause trends in Power usage.
+    So the x axis breakdown is the same (by hour) and is aligned to the Power Usage trend.
+
+    
+
+    
 
