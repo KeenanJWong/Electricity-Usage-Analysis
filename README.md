@@ -45,6 +45,15 @@ With no definite pattern from the overview page - perhaps we need more detail to
 The 'Hours of day above cumulative average' lists the datetime hours by descending order of Power above the cumulative average
     Selecting the date will filter the below table 'Breakdown by app' and Above Cumulative Average Per app waterfall graph.
 The 'Breakdown by app' seperates the power consumption by app and compares it against the cumulative average (For the app).
+    This list is sorted by the power usage of each app descending but though it does show what is using the most power - that doesn't mean we are using the app   
+    excessively.
+
+This is where the Above Cumulative Average Per app waterfall graph comes in.
+    As shown in the example with 8/May at 3am - Though the Furnace_2 and Home office rank first and second, respectively on power consumption
+    If you look at the waterfall graph, it is actually the Wine cellar that uses more power than the cumulative average. 
+    This tells us that though the WIne cellar isn't the greatest power consumer, at this hour we are using more that usual.
+
+    
 
 
     
