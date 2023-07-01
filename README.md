@@ -55,7 +55,8 @@ This is where the Above Cumulative Average Per app waterfall graph comes in.
 
 From this page, we can tell that typically Furnace_1 and Furnace_2 are the greatest power consumers for this household.
     Not only that, we can see that these two furnaces tend to be the appliances that consume extra during the datetime hours that hover abiove the cumulative average.
-Perhaps 
+Perhaps this is the focus area to possibly look at decreasing power usage.
+
     
 
 
