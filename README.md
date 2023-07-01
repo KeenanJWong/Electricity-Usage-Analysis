@@ -23,7 +23,15 @@ The main visual on this page 'Power Usage' visual trends the total power consump
 THe intent of the below visual, 'Weather vs Temperature', is to directly compare the weather and temperature conditions against the power usage.
     To see if there are any influencing factors (either weather/temperature) that could cause trends in Power usage.
     So the x axis breakdown is the same (by hour) and is aligned to the Power Usage trend.
-
+    
+It is handy to be able to see at what hours of each day you go over the Cumulative average but does it really matter if you go over for only a few hours of the day?
+What if you go over a few hours and then are below the cumulative average for the rest of the day/time period. Then the hours you go above probably doesn't have much impact.
+This is where the 'Power Offset' graph comes in. This is probably the first one that really needs to be looked at and therefore is EMPHASIZED the most.
+    This graph works by taking the net Power usage (per day). So when it is a positive offset (red) it indicates that more of hours of the time period you are over. 
+    Vice Versa for green.
+    By selecting the days that are red, it will filter down to that day where you can look at where you are using alot of power and also if there are any external 
+     influecing factors, e.g. weather/temp that are affecting it.
+    By selecting the days that are green, it will also filter and can look at internal/external influences that lead to lower power consumption.
     
 
     
