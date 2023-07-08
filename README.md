@@ -11,7 +11,9 @@ Sample dataset was taken from Kaggle.
 * This dataset contained time series power usage data for a variety of different applicances in 1 minute increments. <br/>
 
 SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
-
+* The raw CSV file was imported into SSMS.
+* Two tables were created from the raw data
+  * SQL Query: [CreateRawData.sql](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/CreateRawData.sql)
 
 
 
