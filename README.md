@@ -9,6 +9,7 @@ This is where the 'Electricity Usage Analysis' dashboard comes in. This dashboar
 #### Methodology ####
 Sample dataset was taken from Kaggle.
 * This dataset contained time series power usage data for a variety of different applicances in 1 minute increments.
+<br/>
 SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
 
 
