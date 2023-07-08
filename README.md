@@ -14,7 +14,7 @@ SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
 * The raw CSV file was imported into SSMS.
 * Two tables were created from the raw data. SQL Query: [CreateRawData.sql](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/CreateRawData.sql)
   1) A dimApp Table - A dimension table containing all household appliances.
-    * Note: 
+      * Note: 
 
 
 
