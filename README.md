@@ -1,17 +1,10 @@
 # Electricity Usage Analysis #
 
 #### Problem Statement ####
-With rising energy prices, many of us don't have a choice but to cut down on our power usage. 
-However, simply "not using" electrical applicances is not feasible as we do require some level of power consumption to live reasonably comfortable lives.
-The 'Electricity Usage Analysis' dashboard aims to capture power consumption details to the hour, allow you to understand your typical consumption and to guide you to make changes.
+With rising energy prices, many of us don't have a choice but to cut down on our power usage. However, a lot us do require some level of consumption to live reasonably comfortable lives. 
+As a result, we are left with the task of priotising the power usage allowance of all our electrical appliances and reducing any excessive usage. Without proper understanding of our power consumption, making these necessary choices will be difficult.
+This is where the 'Electricity Usage Analysis' dashboard comes in. This dashboard aims to elucidate your current energy consumption patterns and highlight opportunities to reduce excessive usage.
 
-
-and to reduce any excessive energy usage.
-
-*Problem Statement
-With rising energy prices currently happening, how do we know if we are using excessive energy? can we cut down on our power usage? I dont think we have a choice. 
-We endeavour to create a dashboard which will trend your power usage and highlight any excessive power usage.
-Hopefully with our dashboard you can reduce your power usage and si=ruvive this inflation of energy prices!!!
 
 *Methodology
 Using an electricity data spreadsheet from Kaggle.
