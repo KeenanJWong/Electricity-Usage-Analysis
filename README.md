@@ -3,7 +3,7 @@
 #### Problem Statement ####
 With rising energy prices, many of us don't have a choice but to cut down on our power usage. 
 However, simply "not using" electrical applicances is not feasible as we do require some level of power consumption to live reasonably comfortable lives.
-
+The 'Electricity Usage Analysis' dashboard aims to capture power consumption details to the hour, allow you to understand your typical consumption and to guide you to make changes.
 
 
 and to reduce any excessive energy usage.
