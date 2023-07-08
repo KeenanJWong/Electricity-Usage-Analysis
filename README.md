@@ -19,16 +19,11 @@ SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
 * By joining the above two tables, a resultant 'Electricity Analysis' table was created.
   * As timeseries data of 1 minute increments is excessive for this dashboard, the data in this table was aggregated to date-time hourly increments.
   * SQL query for this step: [Electricity Analysis.sql](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/Electricity%20Analysis.sql)
+* The final sql table was imported into Power BI for visualisation.
+  * Power BI file: [Electricity Analysis.pbix](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/Electricity%20Analysis.pbix) 
+<br/>
+<br/>
 
-*Methodology
-Using an electricity data spreadsheet from Kaggle.
-Raw Data was imported into sql 
-Two new tables were created using the raw data (see sql query)
-  A dim App table (Note: This was an optional step only as the data was already mapped to an app. This was done to showcase joining in sql)
-  A fact table
-The joined table was manipulated in sql: For
-  The timeseries data was incremental by 1 min?? which is a bit too esscessive for our use case. SO this was modified to become incremental by an hour.
-THe joined table sql query was then imported into Power BI for visualisation.
 
 *Analysis and Visualisation
 Page 1 - Overview page
