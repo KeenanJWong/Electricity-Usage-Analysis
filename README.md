@@ -6,6 +6,12 @@ As a result, we are left with the task of prioritising the power usage allowance
 This is where the 'Electricity Usage Analysis' dashboard comes in. This dashboard aims to elucidate your current energy consumption patterns and highlight opportunities to reduce excessive usage. <br/>
 <br/>
 <br/>
+#### Methodology ####
+Sample dataset was taken from Kaggle.
+* This dataset contained time series power usage data for a variety of different applicances in 1 minute increments.
+
+
+
 
 
 *Methodology
