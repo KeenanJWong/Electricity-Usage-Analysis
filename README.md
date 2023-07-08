@@ -4,6 +4,8 @@
 With rising energy prices, many of us don't have a choice but to cut down on our power usage. However, a lot us do require some level of consumption to live reasonably comfortable lives. <br/>
 As a result, we are left with the task of prioritising the power usage allowance of all our electrical appliances and reducing any excessive usage. Without proper understanding of our power consumption, making these necessary choices will be difficult. <br/>
 This is where the 'Electricity Usage Analysis' dashboard comes in. This dashboard aims to elucidate your current energy consumption patterns and highlight opportunities to reduce excessive usage. <br/>
+<br/>
+<br/>
 
 
 *Methodology
