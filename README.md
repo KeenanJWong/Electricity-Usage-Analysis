@@ -1,4 +1,13 @@
-# Electricity-Usage-Analysis
+# Electricity Usage Analysis #
+
+#### Problem Statement ####
+With rising energy prices, many of us don't have a choice but to cut down on our power usage. 
+However, simply "not using" electrical applicances is not feasible as we do require some level of power consumption to live reasonably comfortable lives.
+
+
+
+and to reduce any excessive energy usage.
+
 *Problem Statement
 With rising energy prices currently happening, how do we know if we are using excessive energy? can we cut down on our power usage? I dont think we have a choice. 
 We endeavour to create a dashboard which will trend your power usage and highlight any excessive power usage.
