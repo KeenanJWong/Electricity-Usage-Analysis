@@ -34,7 +34,9 @@ _Overview page_
   * The red bars indicate when power usage for the hour is above the cumulative average.
 * The visual below, 'Weather vs Temperature', is to compare weather and temperature conditions against power usage.
   * This is to see if either have influence on the power usage trend.
-  * Therefore, the x-axis is aligned with the 'Power Usage' graph. 
+  * Therefore, the x-axis is aligned with the 'Power Usage' graph.
+<br/>
+If we looked at the 'Power Usage' graph, between the 7th and 8th of May, we can see relatively small spikes of power usage above the cumulative average. Though if you compare the frequency of the small spikes against the rest of the date-time period then the small spikes probably are insignificant. 
 
 
 
