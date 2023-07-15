@@ -28,7 +28,7 @@ SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
 
 'Electricity Usage Analysis' dashboard has two tabs: An Overview and 'Above C.Average Breakdown' page. <br/>
 <br/>
-##### Overview page #####
+_Overview page 
 * The intent is to provide a high level overview of power consumption over a period of time.
 * The main visual is the 'Power Usage' graph which trends total power consumption against a cumulative average.
   * The red bars indicate when power usage for the hour is above the cumulative average.
