@@ -23,17 +23,22 @@ SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
   * Power BI file: [Electricity Analysis.pbix](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/Electricity%20Analysis.pbix) 
 <br/>
 <br/>
+#### Visualisation and Analysis ####
+INSERT IMAGE <br/>
+'Electricity Usage Analysis' dashboard has two tabs: An Overview and 'Above C.Average Breakdown' page. <br/>
+<br/>
+### Overview page ###
+* The intent is to provide a high level overview of power consumption over a period of time.
+* The main visual is the 'Power Usage' graph which trends total power consumption against a cumulative average.
+  * The red bars indicate when power usage for the hour is above the cumulative average.
+* The visual below, 'Weather vs Temperature', is to compare weather and temperature conditions against power usage.
+  * This is to see if either have influence on the power usage trend.
+  * Therefore, the x-axis is aligned with the 'Power Usage' graph. 
 
 
-*Analysis and Visualisation
-Page 1 - Overview page
-The intent of this page is to provide a high level overview of Power consumption over a period of time.
-The main visual on this page 'Power Usage' visual trends the total power consumption against a cumulative average.
-    As you can see, when the power usage is above the cumulative average - it is indicated with the red bars.
-    This is to breakdown (by hours in a day) when your power consumption goes over the cumulative average
-THe intent of the below visual, 'Weather vs Temperature', is to directly compare the weather and temperature conditions against the power usage.
-    To see if there are any influencing factors (either weather/temperature) that could cause trends in Power usage.
-    So the x axis breakdown is the same (by hour) and is aligned to the Power Usage trend.
+
+
+
     
 It is handy to be able to see at what hours of each day you go over the Cumulative average but does it really matter if you go over for only a few hours of the day?
 What if you go over a few hours and then are below the cumulative average for the rest of the day/time period. Then the hours you go above probably doesn't have much impact.
