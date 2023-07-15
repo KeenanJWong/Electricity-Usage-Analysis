@@ -35,6 +35,7 @@ _Overview page_
 * The visual below, 'Weather vs Temperature', is to compare weather and temperature conditions against power usage.
   * This is to see if either have influence on the power usage trend.
   * Therefore, the x-axis is aligned with the 'Power Usage' graph. <br/>
+<br/>
 If we looked at the 'Power Usage' graph, between the 7th and 8th of May, we can see relatively small spikes of power usage above the cumulative average. <br/>
 Though if you compare the frequency of the small spikes against the rest of the date-time period then the small spikes are probably insignificant.<br/>
 These periods can be ignored or studied to understand the causes for reasonable power consumption. Either way, we need to be able to indicate when the net power consumption of the period outweighs the cumulative average first. <br/>
