@@ -25,7 +25,7 @@ SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
 <br/>
 
 #### Visualisation and Analysis #### <br/>
-INSERT IMAGE <br/>
+
 'Electricity Usage Analysis' dashboard has two tabs: An Overview and 'Above C.Average Breakdown' page. <br/>
 <br/>
 ### Overview page ###
