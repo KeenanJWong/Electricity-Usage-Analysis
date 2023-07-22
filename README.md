@@ -55,6 +55,7 @@ From our sample data, it can be seen that 4 out of the 6 sample dates are red (a
 
 With no definite pattern from the overview page, perhaps we need more detail to understand our power consumption behaviour. <br/>
 This is where the second page 'Above C.Average Breakdown' comes in. <br/>
+<br/>
 
 _Above C.Average Breakdown page_
 * This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
