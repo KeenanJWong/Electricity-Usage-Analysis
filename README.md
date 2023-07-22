@@ -44,9 +44,7 @@ This is where the 'Power Offset' graph comes in. <br/>
 
 
 
-    
-It is handy to be able to see at what hours of each day you go over the Cumulative average but does it really matter if you go over for only a few hours of the day?
-What if you go over a few hours and then are below the cumulative average for the rest of the day/time period. Then the hours you go above probably doesn't have much impact.
+ 
 This is where the 'Power Offset' graph comes in. This is probably the first one that really needs to be looked at and therefore is EMPHASIZED the most.
     This graph works by taking the net Power usage (per day). So when it is a positive offset (red) it indicates that more of hours of the time period you are over. 
     Vice Versa for green.
