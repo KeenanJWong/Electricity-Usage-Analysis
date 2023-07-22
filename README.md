@@ -39,7 +39,7 @@ _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
 If we looked at the 'Power Usage' graph, between the 7th and 8th of May, we can see relatively small spikes of power usage above the cumulative average. <br/>
 Though if you compare the frequency of the small spikes against the rest of the date-time period then the small spikes are probably insignificant.<br/>
 These periods can be ignored or studied to understand the causes for reasonable power consumption. Either way, we need to be able to indicate when the net power consumption of the period outweighs the cumulative average first. <br/>
-This is where the 'Power Offset' graph comes in. 
+This is where the 'Power Offset' graph comes in. <br/>
 <br/>
 
 _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
