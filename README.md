@@ -40,14 +40,13 @@ If we looked at the 'Power Usage' graph, between the 7th and 8th of May, we can 
 Though if you compare the frequency of the small spikes against the rest of the date-time period then the small spikes are probably insignificant.<br/>
 These periods can be ignored or studied to understand the causes for reasonable power consumption. Either way, we need to be able to indicate when the net power consumption of the period outweighs the cumulative average first. <br/>
 This is where the 'Power Offset' graph comes in. <br/>
+This graph works by taking the net power usage per day.
+When it is a positive offset (red), it indicates that the overall power consumption of the day is over the cumulative average.
+By selecting the red bars, the report can drill down to enable
 
 
 
 
- 
-This is where the 'Power Offset' graph comes in. This is probably the first one that really needs to be looked at and therefore is EMPHASIZED the most.
-    This graph works by taking the net Power usage (per day). So when it is a positive offset (red) it indicates that more of hours of the time period you are over. 
-    Vice Versa for green.
     By selecting the days that are red, it will filter down to that day where you can look at where you are using alot of power and also if there are any external 
      influecing factors, e.g. weather/temp that are affecting it.
     By selecting the days that are green, it will also filter and can look at internal/external influences that lead to lower power consumption.
