@@ -47,7 +47,10 @@ _Overview page - 'Power Offset' visuals_
 * When it is a positive offset (red bars), it indicates that the overall power consumption of the day is over the cumulative average.
 * By selecting the red bars, the report can drill down to breakdown the power consumption for the day.
 
-
+From our sample data, it can be seen that 4 out of the 6 sample dates are red (as shown below). <br/>
+* Interestingly there doesn't seem to be a clear power consumption pattern in terms of hourly usage.
+* There seems to be no correlation between power consumption and temperature/weather as intuitively thought.
+  * E.g. Rainy/cold days doesn't equate to higher consumption.
 
 
 
