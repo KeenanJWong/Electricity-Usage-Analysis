@@ -53,11 +53,12 @@ From our sample data, it can be seen that 4 out of the 6 sample dates are red (a
   * E.g. Rainy/cold days doesn't equate to higher consumption.
 * This, however, is only a sample period of 5 days so a longer date range, spanning different seasons, could potentially show more trends.
 
+With no definite pattern from the overview page, perhaps we need more detail to understand our power consumption behaviour. <br/>
+This is where the second page 'Above C.Average Breakdown' comes in. <br/>
 
+_Above C.Average Breakdown_
+This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
 
-With no definite pattern from the overview page - perhaps we need more detail to understand our power consumption behaviour.
-    This is where the second page 'Above C.Average Breakdown' comes in.
-    This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
 
 The 'Hours of day above cumulative average' lists the datetime hours by descending order of Power above the cumulative average
     Selecting the date will filter the below table 'Breakdown by app' and Above Cumulative Average Per app waterfall graph.
