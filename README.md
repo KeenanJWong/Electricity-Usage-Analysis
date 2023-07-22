@@ -51,14 +51,9 @@ From our sample data, it can be seen that 4 out of the 6 sample dates are red (a
 * Interestingly there doesn't seem to be a clear power consumption pattern in terms of hourly usage.
 * There seems to be no correlation between power consumption and temperature/weather as intuitively thought.
   * E.g. Rainy/cold days doesn't equate to higher consumption.
+* This, however, is only a sample period of 5 days so a longer date range, spanning different seasons, could potentially show more trends.
 
 
-
-
-From our sample data, it can be seen that 4 out of the 6 sample dates are in the red. (AS shown from our snipped of the 4/May - with the highest offset).
-    Interestingly there doesnt seem to be a pattern when comparing those dates 
-    ANd there doesn't seem to be a correlation with temperature/weather as one would think,e.g. rainy/cold days doesn't seem to mean higher consumption.
-        In saying this, this is only a sample period of 5 consecutive days. Perhaps a longer date range that spans different seasons could show more trends.
 
 With no definite pattern from the overview page - perhaps we need more detail to understand our power consumption behaviour.
     This is where the second page 'Above C.Average Breakdown' comes in.
