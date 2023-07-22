@@ -43,10 +43,8 @@ This is where the 'Power Offset' graph comes in. <br/>
 <br/>
 
 _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
-
-<br/>
-This graph works by taking the net power usage per day.
-When it is a positive offset (red bars), it indicates that the overall power consumption of the day is over the cumulative average.
+* This graph works by taking the net power usage per day.
+* When it is a positive offset (red bars), it indicates that the overall power consumption of the day is over the cumulative average.
 By selecting the red bars, the report can drill down to breakdown the power consumption for the day.
 
 
