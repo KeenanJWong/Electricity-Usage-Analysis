@@ -41,7 +41,7 @@ Though if you compare the frequency of the small spikes against the rest of the 
 These periods can be ignored or studied to understand the causes for reasonable power consumption. Either way, we need to be able to indicate when the net power consumption of the period outweighs the cumulative average first. <br/>
 This is where the 'Power Offset' graph comes in. 
 <br/>
-_Overview page - 'Power Offset' visuals_
+_Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
 <br/>
 This graph works by taking the net power usage per day.
 When it is a positive offset (red bars), it indicates that the overall power consumption of the day is over the cumulative average.
