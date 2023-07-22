@@ -57,7 +57,7 @@ With no definite pattern from the overview page, perhaps we need more detail to 
 This is where the second page 'Above C.Average Breakdown' comes in. <br/>
 
 _Above C.Average Breakdown_
-This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
+* This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
 
 
 The 'Hours of day above cumulative average' lists the datetime hours by descending order of Power above the cumulative average
