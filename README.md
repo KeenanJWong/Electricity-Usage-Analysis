@@ -59,14 +59,14 @@ This is where the second page 'Above C.Average Breakdown' comes in. <br/>
 
 _Above C.Average Breakdown page_
 * This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
-* The 'Hours of Day Above Cumulative Average' table kists the datetime hours (descending) of power above the cumulative average.
+* The 'Hours of Day Above Cumulative Average' table lists the datetime hours (descending) of power above the cumulative average.
   * Selecting the date will filter the 'Breakdown by app' table and 'Above Cumulative Average Per App' waterfall graph.
 * The 'Breakdown by app' table seperates the power consumption by app and compares it against the cumulative average (per app).
   * The list is sorted by power consumption descending to display the appliances with the highest power consumptions.
 * The 'Above Cumulative Average Per App' waterfall graph displays the difference between the power consumption and cumulative average breakdown by app.
   * The purpose is to highlight that just because an app consumes the most power, it doesn't mean it is being used excessively.
   * Using 08/05/2022 3am as an example:
-    * Though Furnace_2 and Home office rank first and second, respectively on the 'Breakdown by app' table. if you look at the waterfall graph, it is actually the Wine cellar that is consuming excessive power compared to the cumulative average.
+    * Though Furnace_2 and Home office rank first and second, respectively on the 'Breakdown by app' table. If you look at the waterfall graph, it is actually the Wine cellar that is consuming excessive power compared to the cumulative average.
 * From this page, we can tell that Furnace_1 and Furnace_2, typically consume the most power for this household.
   * Additionally, they are the appliances that consume excessively above the cumulative average.
-  * This could a potential focus area to look at decreasing power usage.
+  * This could be a potential focus area to look at for decreasing power usage.
