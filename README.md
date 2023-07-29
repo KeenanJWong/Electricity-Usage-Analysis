@@ -66,22 +66,7 @@ _Above C.Average Breakdown page_
 * The 'Above Cumulative Average Per App' waterfall graph displays the difference between the power consumption and cumulative average breakdown by app.
   * The purpose is to highlight that just because an app consumes the most power, it doesn't mean it is being used excessively.
   * Using 08/05/2022 3am as an example:
-    * Though the Furnace_2 and Home office rank first and second, respectively on the 'Breakdown by app' table. If you look at the waterfall graph, it is actually the Wine cellar that is consuming excessive power compared to the cumulative average.
-
-
-    As shown in the example with 8/May at 3am - Though the Furnace_2 and Home office rank first and second, respectively on power consumption
-    If you look at the waterfall graph, it is actually the Wine cellar that uses more power than the cumulative average. 
-    This tells us that though the WIne cellar isn't the greatest power consumer, at this hour we are using more that usual.
-
-From this page, we can tell that typically Furnace_1 and Furnace_2 are the greatest power consumers for this household.
-    Not only that, we can see that these two furnaces tend to be the appliances that consume extra during the datetime hours that hover abiove the cumulative average.
-Perhaps this is the focus area to possibly look at decreasing power usage.
-
-    
-
-
-    
-    
-
-    
-
+    * Though Furnace_2 and Home office rank first and second, respectively on the 'Breakdown by app' table. if you look at the waterfall graph, it is actually the Wine cellar that is consuming excessive power compared to the cumulative average.
+* From this page, we can tell that Furnace_1 and Furnace_2, typically consume the most power for this household.
+  * Additionally, they are the appliances that consume excessively above the cumulative average.
+  * This could a potential focus area to look at decreasing power usage.
