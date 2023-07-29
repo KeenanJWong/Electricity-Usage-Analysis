@@ -59,15 +59,16 @@ This is where the second page 'Above C.Average Breakdown' comes in. <br/>
 
 _Above C.Average Breakdown page_
 * This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
+* The 'Hours of Day Above Cumulative Average' table kists the datetime hours (descending) of power above the cumulative average.
+  * Selecting the date will filter the 'Breakdown by app' table and 'Above Cumulative Average Per App' waterfall graph.
+* The 'Breakdown by app' table seperates the power consumption by app and compares it against the cumulative average (per app).
+  * The list is sorted by power consumption descending to display the appliances with the highest power consumptions.
+* The 'Above Cumulative Average Per App' waterfall graph displays the difference between the power consumption and cumulative average breakdown by app.
+  * The purpose is to highlight that just because an app consumes the most power, it doesn't mean it is being used excessively.
+  * Using 08/05/2022 3am as an example:
+    * Though the Furnace_2 and Home office rank first and second, respectively on the 'Breakdown by app' table. If you look at the waterfall graph, it is actually the Wine cellar that is consuming excessive power compared to the cumulative average.
 
 
-The 'Hours of day above cumulative average' lists the datetime hours by descending order of Power above the cumulative average
-    Selecting the date will filter the below table 'Breakdown by app' and Above Cumulative Average Per app waterfall graph.
-The 'Breakdown by app' seperates the power consumption by app and compares it against the cumulative average (For the app).
-    This list is sorted by the power usage of each app descending but though it does show what is using the most power - that doesn't mean we are using the app   
-    excessively.
-
-This is where the Above Cumulative Average Per app waterfall graph comes in.
     As shown in the example with 8/May at 3am - Though the Furnace_2 and Home office rank first and second, respectively on power consumption
     If you look at the waterfall graph, it is actually the Wine cellar that uses more power than the cumulative average. 
     This tells us that though the WIne cellar isn't the greatest power consumer, at this hour we are using more that usual.
