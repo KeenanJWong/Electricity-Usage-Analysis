@@ -13,9 +13,9 @@ Sample dataset was taken from Kaggle.
 SSMS (T-SQL) was chosen as the prefered method to store and manipulate the data.
 * The raw CSV file was imported into SSMS.
 * Two tables were created from the raw data. SQL Query: [CreateRawData.sql](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/CreateRawData.sql)
-  1) A dimApp Table - A dimension table containing all household appliances.
+  * 1) A dimApp Table - A dimension table containing all household appliances.
       * Note: This was optional as the data was already mapped to appliance names. This was just done to showcase 'Joining' in SQL.
-  2) A Fact table - Containing the recorded timeseries power usage data.
+  * 2) A Fact table - Containing the recorded timeseries power usage data.
 * By joining the above two tables, a resultant 'Electricity Analysis' table was created.
   * As timeseries data of 1 minute increments is excessive for this dashboard, the data in this table was aggregated to date-time hourly increments.
   * SQL query for this step: [Electricity Analysis.sql](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/Electricity%20Analysis.sql)
