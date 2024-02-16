@@ -36,12 +36,7 @@ _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
   * This is to see if either have influence on the power usage trend.
   * Therefore, the x-axis is aligned with the 'Power Usage' graph.
 
-
-
 ![Overview](/Electricity-Usage-Analysis/assets/Images/Electricity Analysis Overview.png)
-
-
-
 
 If we looked at the 'Power Usage' graph, between the 7th and 8th of May, we can see relatively small spikes of power usage above the cumulative average. <br/>
 Though if you compare the frequency of the small spikes against the rest of the date-time period then the small spikes are probably insignificant.<br/>
@@ -50,11 +45,14 @@ This is where the 'Power Offset' graph comes in. <br/>
 <br/>
 
 _Overview page - 'Power Offset' visuals_
+
+![Offset](/Electricity-Usage-Analysis/assets/Images/PowerOffset.png)
+
 * This graph works by taking the net power usage per day.
 * When it is a positive offset (red bars), it indicates that the overall power consumption of the day is over the cumulative average.
 * By selecting the red bars, the report can drill down to breakdown the power consumption for the day.
 
-From our sample data, it can be seen that 4 out of the 6 sample dates are red (as shown below). <br/>
+From our sample data, it can be seen that 4 out of the 6 sample dates are red (as shown above). <br/>
 * Interestingly there doesn't seem to be a clear power consumption pattern in terms of hourly usage.
 * There seems to be no correlation between power consumption and temperature/weather as intuitively thought.
   * E.g. Rainy/cold days doesn't equate to higher consumption.
