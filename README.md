@@ -36,11 +36,11 @@ _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
   * This is to see if either have influence on the power usage trend.
   * Therefore, the x-axis is aligned with the 'Power Usage' graph.
 
-<br/>
+
 
 ![Overview](/Electricity-Usage-Analysis/assets/Images/Electricity Analysis Overview.png)
 
-<br/>
+
 
 
 If we looked at the 'Power Usage' graph, between the 7th and 8th of May, we can see relatively small spikes of power usage above the cumulative average. <br/>
