@@ -63,6 +63,9 @@ This is where the second page 'Above C.Average Breakdown' comes in. <br/>
 <br/>
 
 _Above C.Average Breakdown page_
+
+![Above](/Electricity-Usage-Analysis/assets/Images/AboveBreakdown.png)
+
 * This page focuses on the hours during the selected datetime period where the power usage is above the cumulative average.
 * The 'Hours of Day Above Cumulative Average' table lists the datetime hours (descending) of power above the cumulative average.
   * Selecting the date will filter the 'Breakdown by app' table and 'Above Cumulative Average Per App' waterfall graph.
