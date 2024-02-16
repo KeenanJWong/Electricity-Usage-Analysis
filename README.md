@@ -1,4 +1,4 @@
-# Electricity Usage Analysis #
+
 
 #### Problem Statement ####
 With rising energy prices, many of us don't have a choice but to cut down on our power usage. However, a lot us do require some level of consumption to live reasonably comfortable lives. <br/>
