@@ -37,7 +37,7 @@ _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
   * Therefore, the x-axis is aligned with the 'Power Usage' graph.
 
 
-![Overview](/repository/assets/Overview.png?raw=true "Overview")
+![Overview](/repository/Electricity-Usage-Analysis/Electricity Analysis Overview.png?raw=true "Overview")
 
 
 
