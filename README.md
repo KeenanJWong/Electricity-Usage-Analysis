@@ -38,7 +38,7 @@ _Overview page - 'Power Usage' and 'Weather vs Temperature' visuals_
 
 <br/>
 
-![Overview](https://github.com/KeenanJWong/Electricity-Usage-Analysis/blob/main/Electricity%20Analysis%20Overview.png)
+![Overview](Electricity-Usage-Analysis/docs/assets/Electricity Analysis Overview.png)
 
 <br/>
 
